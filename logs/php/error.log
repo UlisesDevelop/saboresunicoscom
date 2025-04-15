@@ -1,0 +1,1 @@
+[15-Apr-2025 21:18:19 UTC] Error de evento de reprogramación de cron para el gancho: action_scheduler_run_queue. Código de error: could_not_set. Mensaje de error: No se ha podido guardar la lista de eventos del cron.. Datos: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
